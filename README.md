@@ -1,8 +1,6 @@
 # Headless
-<div style="display: flex;flex-direction: row;width: fit-content;margin: 0 auto;">
 ![License: GPL 3.0](https://img.shields.io/badge/license-GPL_3.0-blue)
 ![Release: Pre-Release](https://img.shields.io/badge/Release-Pre_Release-blue)
-</div>
 A lightweight and private modification for Windows, designed for privacy, performance-critical users.
 🚀 Key Features
 - Maximum Privacy: Aggressively disables Microsoft telemetry, activity history, and data collection services, including Wi-Fi Sense and Ads ID, far beyond standard Windows settings.
