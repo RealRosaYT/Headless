@@ -1,0 +1,3 @@
+*.ps1 eol=crlf
+*.yml eol=crlf
+*.conf eol=crlf
